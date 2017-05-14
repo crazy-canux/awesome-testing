@@ -11,17 +11,20 @@
 
 * [Software Testing](#software-testing)
     * [Robot Framework](#robot-framework)
+    * [Cucumber](#cucumber)
+    * [TestNG](#testng)
     * [Gauge](#guage)
     * [Staf](#staf)
     * [TestComplete](#testcomplete)
+    * [Ranorex](#ranorex)
+    * [UFT](#uft)
 * [Web App Testing](#web-app-testing)
     * [Selenium](#selenium)
     * [nightwatch](#nightwatch)
     * [Protractor](#protractor)
+    * [capybara](#capybara)
 * [Desktop App Testing](#desktop-app-testing)
-    * [Ranorex](#ranorex)
     * [AutoIt](#autoit)
-    * [UFT](#uft)
 * [Mobile App Testing](#mobile-app-testing)
     * [Appium](#appium)
     * [Android Testing](#android-testing)
@@ -32,7 +35,7 @@
 
 ***
 
-## Software Testing Framework
+## Software Testing
 
 * [awesome test automation](https://github.com/atinfo/awesome-test-automation)
 * [awesome tdd](https://github.com/unicodeveloper/awesome-tdd)
@@ -42,6 +45,16 @@
 * [robot framework](http://robotframework.org/)
 * [robot framework github](https://github.com/robotframework/robotframework)
 * [awesome robotframework](https://github.com/fkromer/awesome-robotframework)
+
+### Cucumber
+
+* [cucumber](https://cucumber.io/)
+* [cucumber github](https://github.com/cucumber)
+
+### TestNG
+
+* [testng](http://testng.org/doc/)
+* [testng github](https://github.com/cbeust/testng/)
 
 ### Guage
 
@@ -56,6 +69,14 @@
 ### TestComplete
 
 * [TestComplete](https://smartbear.com/product/testcomplete/overview/)
+
+### Ranorex
+
+* [Ranorex](http://www.ranorex.com/)
+
+### UFT
+
+* [UFT](https://saas.hpe.com/en-us/software/uft)
 
 ***
 
@@ -74,21 +95,18 @@
 
 * [protractor github](https://github.com/angular/protractor)
 
+### capybara
+
+* [capybara](http://teamcapybara.github.io/capybara/)
+* [capybara github](https://github.com/teamcapybara/capybara)
+
 ***
 
 ## Desktop App Testing
 
-### Ranorex
-
-* [Ranorex](http://www.ranorex.com/)
-
 ### AutoIt
 
 * [autoIt](https://www.autoitscript.com/site/)
-
-### UFT
-
-* [UFT/QTP](https://saas.hpe.com/en-us/software/uft)
 
 ***
 
