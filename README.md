@@ -78,6 +78,11 @@
 
 * [UFT](https://saas.hpe.com/en-us/software/uft)
 
+### westeros
+
+* [westeros](http://westeros.readthedocs.io/en/latest/)
+* [Westeros github](https://github.com/crazy-canux/westeros)
+
 ***
 
 ## Web App Testing
