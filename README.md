@@ -23,6 +23,7 @@
     * [nightwatch](#nightwatch)
     * [Protractor](#protractor)
     * [capybara](#capybara)
+    * [differencify](#differencify)
 * [Desktop App Testing](#desktop-app-testing)
     * [AutoIt](#autoit)
 * [Mobile App Testing](#mobile-app-testing)
@@ -104,6 +105,10 @@
 
 * [capybara](http://teamcapybara.github.io/capybara/)
 * [capybara github](https://github.com/teamcapybara/capybara)
+
+### Differencify
+
+* [differencify github](https://github.com/NimaSoroush/differencify)
 
 ***
 
