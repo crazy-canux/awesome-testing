@@ -20,6 +20,7 @@
     * [UFT](#uft)
 * [Web App Testing](#web-app-testing)
     * [Selenium](#selenium)
+    * [splinter](#splinter)
     * [nightwatch](#nightwatch)
     * [Protractor](#protractor)
     * [capybara](#capybara)
@@ -92,11 +93,15 @@
 * [selenium](http://www.seleniumhq.org/)
 * [selenium github](https://github.com/SeleniumHQ/selenium)
 
+### splinter
+
+* [splinter github](https://github.com/cobrateam/splinter)
+
 ### nightwatch
 
 * [nightwatch github](https://github.com/nightwatchjs/nightwatch)
 
-### Protractor
+### protractor
 
 * [protractor github](https://github.com/angular/protractor)
 
