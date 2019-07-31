@@ -27,6 +27,8 @@
     * [differencify](#differencify)
 * [Desktop App Testing](#desktop-app-testing)
     * [AutoIt](#autoit)
+    * [pyautogui](#pyautogui)
+    * [sikuli](#sikuli)
 * [Mobile App Testing](#mobile-app-testing)
     * [Appium](#appium)
     * [Android Testing](#android-testing)
@@ -119,13 +121,19 @@
 
 ## Desktop App Testing
 
+Desktop, Gui, cursor application test.
+
 ### AutoIt
 
 * [autoIt](https://www.autoitscript.com/site/)
+* [pyautogui](https://github.com/asweigart/pyautogui)
+* [sikuli](https://github.com/RaiMan/SikuliX1)
 
 ***
 
 ## Mobile App Testing
+
+IOS and Android application test.
 
 ### Appium
 
