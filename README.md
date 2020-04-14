@@ -13,6 +13,7 @@
     * [Robot Framework](#robot-framework)
     * [Cucumber](#cucumber)
     * [TestNG](#testng)
+    * [JMeter](#jmeter)
     * [Gauge](#guage)
     * [Staf](#staf)
     * [TestComplete](#testcomplete)
@@ -59,6 +60,11 @@
 
 * [testng](http://testng.org/doc/)
 * [testng github](https://github.com/cbeust/testng/)
+
+### JMeter
+
+* [jmeter](https://jmeter.apache.org/)
+* [jmeter github](https://github.com/apache/jmeter)
 
 ### Guage
 
