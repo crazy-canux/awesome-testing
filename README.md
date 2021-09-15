@@ -159,6 +159,7 @@ IOS and Android application test.
 ## Misc
 
 * [free software testing books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+* [Thundra Foresight - a free test observability tool](https://www.thundra.io/foresight)
 
 ***
 
