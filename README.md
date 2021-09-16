@@ -68,7 +68,7 @@
 
 ### Guage
 
-* [guage](https://getgauge.io/)
+* [guage](https://gauge.org/)
 * [guage github](https://github.com/getgauge/gauge)
 
 ### STAF
