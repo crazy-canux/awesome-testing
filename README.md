@@ -16,9 +16,6 @@
     * [JMeter](#jmeter)
     * [Gauge](#guage)
     * [Staf](#staf)
-    * [TestComplete](#testcomplete)
-    * [Ranorex](#ranorex)
-    * [UFT](#uft)
 * [Web App Testing](#web-app-testing)
     * [Selenium](#selenium)
     * [splinter](#splinter)
@@ -75,19 +72,7 @@
 ### STAF
 
 * [staf](http://staf.sourceforge.net/)
-* [staf sf](https://sourceforge.net/projects/staf/?source=directory)
-
-### TestComplete
-
-* [TestComplete](https://smartbear.com/product/testcomplete/overview/)
-
-### Ranorex
-
-* [Ranorex](http://www.ranorex.com/)
-
-### UFT
-
-* [UFT](https://saas.hpe.com/en-us/software/uft)
+* [staf SourceForge](https://sourceforge.net/projects/staf/?source=directory)
 
 ### westeros
 
@@ -126,7 +111,7 @@
 
 ### Services
 
-* [Kesha](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.  
+* [Kesha github](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.  
 
 ***
 
@@ -137,8 +122,8 @@ Desktop, Gui, cursor application test.
 ### AutoIt
 
 * [autoIt](https://www.autoitscript.com/site/)
-* [pyautogui](https://github.com/asweigart/pyautogui)
-* [sikuli](https://github.com/RaiMan/SikuliX1)
+* [pyautogui github](https://github.com/asweigart/pyautogui)
+* [sikuli github](https://github.com/RaiMan/SikuliX1)
 
 ***
 
@@ -148,7 +133,7 @@ IOS and Android application test.
 
 ### Appium
 
-* [Appium](https://github.com/appium/appium)
+* [Appium github](https://github.com/appium/appium)
 
 ### Android testing
 
@@ -156,8 +141,8 @@ IOS and Android application test.
 
 ### IOS testing
 
-* [bluepill](https://github.com/linkedin/bluepill)
-* [EarlGery](https://github.com/google/EarlGrey)
+* [bluepill github](https://github.com/linkedin/bluepill)
+* [EarlGery github](https://github.com/google/EarlGrey)
 
 ***
 
