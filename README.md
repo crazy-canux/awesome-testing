@@ -24,7 +24,13 @@
     * [capybara](#capybara)
     * [differencify](#differencify)
     * [services](#services)
-    * [Web3 and Blockchain Testing](#web3-and-blockchain-testing)
+* [Web3 and Blockchain Testing](#web3-and-blockchain-testing)
+    * [Dapp](#dapp)
+    * [Ganache](#ganache)
+    * [Foundry](#foundry)
+    * [Hardhat](#hardhat)
+    * [RFSTT](#rfstt)
+    * [Truffle](#truffle)
 * [Desktop App Testing](#desktop-app-testing)
     * [AutoIt](#autoit)
     * [pyautogui](#pyautogui)
@@ -114,13 +120,32 @@
 
 * [Kesha github](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.  
 
-### Web3 and Blockchain Testing
+***
+
+## Web3 and Blockchain Testing
+
+### Dapp
 
 * [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
+
+### Ganache
+
 * [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
+
+### Foundry
+
 * [Foundry](https://github.com/foundry-rs/foundry) - Blazing fast, portable, and modular toolkit for Ethereum application development written in Rust.
+
+### Hardhat
+
 * [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
+
+### RFSTT
+
 * [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
+
+### Truffle
+
 * [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
 
 ***
