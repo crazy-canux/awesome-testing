@@ -107,6 +107,10 @@
 
 * [protractor github](https://github.com/angular/protractor)
 
+### CodeceptJS
+* [CodeceptJS](https://codecept.io/)
+* [codeceptjs github](https://github.com/codeceptjs/CodeceptJS)
+
 ### capybara
 
 * [capybara](http://teamcapybara.github.io/capybara/)
