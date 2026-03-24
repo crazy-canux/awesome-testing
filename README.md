@@ -134,6 +134,7 @@
 
 ### Services
 
+* [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures real HTTP traffic, auto-generates mocks, and replays scenarios for automated testing.
 * [Kesha github](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.  
 
 ***
