@@ -90,6 +90,16 @@
 
 ## Web App Testing
 
+### playwright
+
+* [github](https://github.com/microsoft/playwright)
+* [playwright](https://playwright.dev/)
+
+### browser-use
+
+* [github](https://github.com/browser-use/browser-use)
+* [browser-use](https://github.com/browser-use/browser-use)
+
 ### Selenium
 
 * [selenium](http://www.seleniumhq.org/)
