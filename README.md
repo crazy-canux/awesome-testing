@@ -17,6 +17,8 @@
     * [Gauge](#guage)
     * [Staf](#staf)
 * [Web App Testing](#web-app-testing)
+    * [Playwright](#playwright)
+    * [Browser-use](#browser-use)
     * [Selenium](#selenium)
     * [splinter](#splinter)
     * [nightwatch](#nightwatch)
