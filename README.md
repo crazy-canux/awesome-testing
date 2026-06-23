@@ -20,6 +20,9 @@
     * [JMeter](#jmeter)
     * [k6](#k6)
     * [locust](#locust)
+* [API Testing](#api-testing)
+    * [requests](#requests)
+    * [httpx](#httpx)
 * [Web App Testing](#web-app-testing)
     * [Playwright](#playwright)
     * [Browser-use](#browser-use)
@@ -91,6 +94,18 @@
 
 * [westeros](http://westeros.readthedocs.io/en/latest/)
 * [Westeros github](https://github.com/crazy-canux/westeros)
+
+***
+
+## API Testing
+
+### requests
+
+* [github](https://github.com/psf/requests)
+
+### httpx
+
+* [github](https://github.com/encode/httpx)
 
 ***
 
