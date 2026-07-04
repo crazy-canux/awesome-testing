@@ -171,6 +171,10 @@
 
 * [Kesha github](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.  
 
+### agent-qa
+
+* [agent-qa github](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
+
 ***
 
 ## Web3 and Blockchain Testing
