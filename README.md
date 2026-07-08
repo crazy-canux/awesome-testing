@@ -137,6 +137,11 @@
 * [github](https://github.com/browser-use/browser-use)
 * [browser-use](https://github.com/browser-use/browser-use)
 
+### BrowserBash
+
+* [github](https://github.com/PramodDutta/browserbash)
+* [browserbash.com](https://browserbash.com)
+
 ### Selenium
 
 * [selenium](http://www.seleniumhq.org/)
