@@ -95,6 +95,10 @@
 * [westeros](http://westeros.readthedocs.io/en/latest/)
 * [Westeros github](https://github.com/crazy-canux/westeros)
 
+### LLM agent testing
+
+* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records an AI coding-agent run to a local trace and replays it offline as a regression test.
+
 ***
 
 ## API Testing
