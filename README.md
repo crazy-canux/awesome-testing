@@ -224,6 +224,7 @@ IOS and Android application test.
 ### Android testing
 
 * [awesome android testing](https://github.com/hotchemi/awesome-android-testing)
+* [Clousd](https://clousd.com) - Cloud Android phones for app testing in the browser, over ADB or through an API ([SDK source](https://github.com/Clousd-Android/clousd-sdk)).
 
 ### IOS testing
 
